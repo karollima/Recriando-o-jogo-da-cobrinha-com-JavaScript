@@ -70,6 +70,7 @@ function iniciarJogo(){
     }
 
     snake.unshift(newHead);
+    
      
 }
 
